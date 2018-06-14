@@ -2,7 +2,8 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.parsh</groupId>
-  <artifactId>im also changing from host server</artifactId>
+
+  <artifactId>rupani</artifactId>
   <packaging>war</packaging>
   <version>1.0-SNAPSHOT</version>
   <name>rupani Maven Webapp</name>
